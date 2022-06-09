@@ -3,3 +3,4 @@
 
 # 참고 예제
 * 기본 용어 정리: <https://www.secmem.org/blog/2019/12/15/RL-key-concepts/>
+* Reinforcement learnign 정리글 목록: <https://legacy.gitbook.com/book/dnddnjs/rl>
